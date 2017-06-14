@@ -1,12 +1,12 @@
 # HHThemeKit
 
-![QQ20170614-154106-HD](./ReadmeSource/14974254190320/QQ20170614-154106-HD.gif)
+![QQ20170614-154106-HD](https://github.com/MRCaoHH/HHThemeKit/blob/master/ReadmeSource/QQ20170614-154106-HD.gif?raw=true)
 
 ### 第一步:
 
 将颜色，字体，图片等样式写入`.plist`文件中。
 
-![](./ReadmeSource/14974254190320/14974255968649.jpg)
+![](https://github.com/MRCaoHH/HHThemeKit/blob/master/ReadmeSource/14974255968649.jpg?raw=true)
 
 ### 第二步设置工程主题的配置文件
 
