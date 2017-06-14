@@ -2,13 +2,13 @@
 
 ![QQ20170614-154106-HD](./ReadmeSource/14974254190320/QQ20170614-154106-HD.gif)
 
-###第一步:
+### 第一步:
 
 将颜色，字体，图片等样式写入`.plist`文件中。
 
 ![](./ReadmeSource/14974254190320/14974255968649.jpg)
 
-###第二步设置工程主题的配置文件
+### 第二步设置工程主题的配置文件
 
 ```
 _themeName = @"Theme";
@@ -16,7 +16,7 @@ HHThemeManager *manager = [HHThemeManager manager];
 [manager loadThemeWithFileName:_themeName];
 ```
 
-###第三步绑定颜色
+### 第三步绑定颜色
 
 ```
  //标签
